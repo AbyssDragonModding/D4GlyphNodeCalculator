@@ -1,5 +1,5 @@
 # D4GlyphNodeCalculator
- Requirements: Python 3.10+
+ Requirements: Python 3.11+
  
 Description: I was tired of manually calculating the glyph nodes so I made a simple calculator to do it for me. Simple program with a GUI for ease of use.
 
