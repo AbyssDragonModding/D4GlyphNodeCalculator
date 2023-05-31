@@ -7,7 +7,7 @@ How to use: Simply count the ammount of nodes within the radius and input the am
 
 About me: I'm a self tought programmer and have been using python off and on over the years for simple projects for myself.
 
-This github repo has the source code, and two build versions Portable and Desktop where portable is a single EXE.
+This github repo has the source code, and under releases theres a desktop and portable version (all packed into one EXE)
 
 Used Python Modules:
     -CustomTkinter (More modern looking version of tkinter)
