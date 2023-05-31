@@ -12,3 +12,6 @@ This github repo has the source code, and under releases theres a desktop and po
 Used Python Modules:
     -CustomTkinter (More modern looking version of tkinter)
     -AutoPyToExe (to build the executable)
+    
+Preview
+![](https://imgur.com/xGlxuS6.png)
