@@ -9,8 +9,8 @@ About me: I'm a self tought programmer and have been using python off and on ove
 
 This github repo has the source code, and under releases theres a desktop and portable version (all packed into one EXE)
 
-Used Python Modules:
-    -CustomTkinter (More modern looking version of tkinter)
-    -AutoPyToExe (to build the executable)
+Used Python Modules:<br/>
+    -CustomTkinter (More modern looking version of tkinter)<br/>
+    -AutoPyToExe (to build the executable)<br/>
     
 ![](https://imgur.com/xGlxuS6.png)
